@@ -1,3 +1,7 @@
+http://justkimkime.github.io/i-did-it/
+
+<img width="1650" height="830" alt="ididit_thumb" src="https://github.com/user-attachments/assets/4ecc10dd-be77-4368-907c-bcfe1e04afb2" />
+
 # I did it.
 
 > 계획은 가볍게 세우고, 해낸 일은 선명하게 남기는 개인용 주간 투두리스트
